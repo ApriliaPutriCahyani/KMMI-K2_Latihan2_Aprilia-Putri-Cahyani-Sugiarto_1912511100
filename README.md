@@ -1,1 +1,1 @@
-# KMMI-K2_Latihan2_Aprilia-Putri-Cahyani-Sugiarto_1912511100
+# KMMI-Membangun Aplikasi CRUD Barang Berbasis Java 2
